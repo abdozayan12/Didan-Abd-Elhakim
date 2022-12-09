@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+  }
+  
+#nav-bar {
+    background-color: rgb(227, 214, 214);
+    padding: 15px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    top: 0;
+    overflow: hidden;
+    position: sticky;
+    }
+  #header-img {
+    size:10px;
+  
+  }
+  .body{
+    align-items: center;
+  }
